@@ -2,7 +2,7 @@
 
  > **Important:** APIs under the /beta version in Microsoft Graph are in preview and are subject to change. Use of these APIs in production applications is not supported.
 
-Security profiles represent security properties and an inventory of related entities (hosts, users, IPs, and so on) to provide additional context for [alerts](../resources/alert.md) and targets for actions. Security profiles are populated by integrated solutions at their discretion.
+Security profiles represent security properties and an inventory of related entities (hosts, users, IPs, and so on) to provide additional context for [alerts](../../resources/alert.md) and targets for actions. Security profiles are populated by integrated solutions at their discretion.
 
 For example:
 
