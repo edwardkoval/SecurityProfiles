@@ -21,11 +21,11 @@ None.
 
 | Relationship | Type |Description|
 |:---------------|:--------|:----------|
-|applicationSecurityProfiles|[applicationSecurityProfile](applicationsecurityprofile.md) collection| Read-only. Nullable.|
-|fileSecurityProfiles|[fileSecurityProfile](filesecurityprofile.md) collection| Read-only. Nullable.|
-|hostSecurityProfiles|[hostSecurityProfile](hostsecurityprofile.md) collection| Read-only. Nullable.|
-|ipSecurityProfiles|[ipSecurityProfile](ipsecurityprofile.md) collection| Read-only. Nullable.|
-|userSecurityProfiles|[userSecurityProfile](usersecurityprofile.md) collection| Read-only. Nullable.|
+|applicationSecurityProfiles|[applicationSecurityProfile](../resources/applicationsecurityprofile.md) collection| Read-only. Nullable.|
+|fileSecurityProfiles|[fileSecurityProfile](../resources/filesecurityprofile.md) collection| Read-only. Nullable.|
+|hostSecurityProfiles|[hostSecurityProfile](../resources/hostsecurityprofile.md) collection| Read-only. Nullable.|
+|ipSecurityProfiles|[ipSecurityProfile](../resources/ipsecurityprofile.md) collection| Read-only. Nullable.|
+|userSecurityProfiles|[userSecurityProfile](../resources/usersecurityprofile.md) collection| Read-only. Nullable.|
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79
 2015-10-25 14:57:30 UTC -->
