@@ -2,7 +2,7 @@
 
  > **Important:** APIs under the /beta version in Microsoft Graph are in preview and are subject to change. Use of these APIs in production applications is not supported.
 
-Security profiles represent security properties and an inventory of related entities (hosts, users, IPs, and so on) to provide additional context for [alerts](../../resources/alert.md) and targets for actions. Security profiles are populated by integrated solutions at their discretion.
+Security profiles represent security properties and an inventory of related entities (hosts, users, IPs, and so on) to provide additional context for [alerts](resources/alert.md) and targets for actions. Security profiles are populated by integrated solutions at their discretion.
 
 For example:
 
@@ -21,11 +21,11 @@ None.
 
 | Relationship | Type |Description|
 |:---------------|:--------|:----------|
-|applicationSecurityProfiles|[applicationSecurityProfile](../resources/applicationsecurityprofile.md) collection| Read-only. Nullable.|
-|fileSecurityProfiles|[fileSecurityProfile](../resources/filesecurityprofile.md) collection| Read-only. Nullable.|
-|hostSecurityProfiles|[hostSecurityProfile](../resources/hostsecurityprofile.md) collection| Read-only. Nullable.|
-|ipSecurityProfiles|[ipSecurityProfile](../resources/ipsecurityprofile.md) collection| Read-only. Nullable.|
-|userSecurityProfiles|[userSecurityProfile](../resources/usersecurityprofile.md) collection| Read-only. Nullable.|
+|applicationSecurityProfiles|[applicationSecurityProfile](resources/applicationsecurityprofile.md) collection| Read-only. Nullable.|
+|fileSecurityProfiles|[fileSecurityProfile](resources/filesecurityprofile.md) collection| Read-only. Nullable.|
+|hostSecurityProfiles|[hostSecurityProfile](resources/hostsecurityprofile.md) collection| Read-only. Nullable.|
+|ipSecurityProfiles|[ipSecurityProfile](resources/ipsecurityprofile.md) collection| Read-only. Nullable.|
+|userSecurityProfiles|[userSecurityProfile](resources/usersecurityprofile.md) collection| Read-only. Nullable.|
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79
 2015-10-25 14:57:30 UTC -->
